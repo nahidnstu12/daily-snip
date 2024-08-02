@@ -1,5 +1,12 @@
-# Simple Full-Stack CRUD with Next.js 14, PostgreSQL, and Prisma
-This is an implementation of CRUD with Next.js 14. A blog about this can be found here: [Simple Full-Stack CRUD with Next.js 14, PostgreSQL, and Prisma | Fajarwz](https://fajarwz.com/blog/simple-full-stack-crud-with-nextjs-14-postgresql-and-prisma/).
+# Daily Snip Project
+This project is handy blog post regular basis, making simple authentication and making visible to public very quickly. Here, my motivation is daily blog posting and provide some admin privilige. This is totally my pet project.
+
+### Tools
+- Next 14
+- Prisma ORM
+- Postgres
+- Typescript 
+- Zod
 
 ## Configuration
 
@@ -23,10 +30,10 @@ npx prisma db push
 
 ### Node Packages 
 ```
-npm install
+pnpm install
 ```
 
 ## Run App
 ```
-npm run dev
+pnpm run dev
 ```
